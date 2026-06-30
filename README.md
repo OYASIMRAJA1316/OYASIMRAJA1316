@@ -2,13 +2,13 @@ Hi there 👋
 
 🚧 Portfolio Under Construction 🚧
 
-FOR NOW click on drive link - 
-https://drive.google.com/drive/u/0/folders/1qxSLUD0cKzLVZZRloODf8_qaadphSo4K
+📂 Temporary Portfolio Access
 
-please chech the drive where i have PPT and videos of my personal work
+While my code repositories are being finalized, please feel free to view my project presentations and demonstration videos here:
+
+👉 View My Portfolio on Google Drive
 
 🚀 Major project repositories are currently being documented and will be uploaded on July 1st.
 
-Thank you for visiting! Please check back tomorrow to see my latest work in:
-
+Thank you for visiting! Please check back tomorrow to see my latest code in:
 
